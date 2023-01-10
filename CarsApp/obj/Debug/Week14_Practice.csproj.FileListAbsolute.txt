@@ -1,0 +1,10 @@
+C:\Users\35988\Desktop\Week14_Practice\bin\Debug\Week14_Practice.exe.config
+C:\Users\35988\Desktop\Week14_Practice\bin\Debug\Week14_Practice.exe
+C:\Users\35988\Desktop\Week14_Practice\bin\Debug\Week14_Practice.pdb
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.csproj.AssemblyReference.cache
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.Form1.resources
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.Properties.Resources.resources
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.csproj.GenerateResource.cache
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.exe
+C:\Users\35988\Desktop\Week14_Practice\obj\Debug\Week14_Practice.pdb
