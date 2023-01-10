@@ -1,0 +1,11 @@
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\bin\Debug\Week14_PracticalAssignment6.exe.config
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\bin\Debug\Week14_PracticalAssignment6.exe
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\bin\Debug\Week14_PracticalAssignment6.pdb
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.csproj.AssemblyReference.cache
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.Dice.resources
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.Form1.resources
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.Properties.Resources.resources
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.csproj.GenerateResource.cache
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.exe
+C:\Users\35988\Desktop\uni\Software Engineering\Week14_PracticalAssignment6\obj\Debug\Week14_PracticalAssignment6.pdb
